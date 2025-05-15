@@ -1,5 +1,3 @@
-<img src="./images/hey-there.png" alt="Ayush DHar gitHub Banner" width="690"/>
-
 # 👋 About Me:
 Hello there! I’m Ayush Dhar, a curious and passionate Software Engineer with a strong foundation in Java, Spring Boot, Microservices, and cloud-native development. I’ve had the opportunity to work across the entire software lifecycle — from designing clean APIs and building scalable backend systems to automating CI/CD pipelines.<br>
 
