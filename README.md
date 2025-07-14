@@ -9,11 +9,6 @@ I bring hands-on experience from large-scale enterprise projects and have comple
 ## 📫 Let’s Connect
 I’m currently exploring Software Developer roles where I can contribute to building robust systems and continue learning alongside experienced teams. If you’re hiring or open to collaboration—let’s connect!<br>	•	🔗 LinkedIn: https://www.linkedin.com/in/ayush-dhar/ <br>	•	✉️ Email: mail.ayushdhar@gmail.com<br>	•	🌍 Portfolio: https://ayushdhar.me/ 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushdhar05/ayushdhar05/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushdhar05/ayushdhar05/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ayushdhar05/ayushdhar05/output/github-snake.svg" />
-</picture>
 
 ### 🧐 Food for thought
 <p align="center">
