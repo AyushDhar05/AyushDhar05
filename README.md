@@ -1,5 +1,5 @@
 # 👋 About Me:
-Hello there! I’m Ayush Dhar, a curious and passionate Software Engineer with a strong foundation in Java, Spring Boot, Microservices, and cloud-native development. I’ve had the opportunity to work across the entire software lifecycle — from designing clean APIs and building scalable backend systems to automating CI/CD pipelines.<br>
+Hello there! I’m Ayush Dhar, a curious and passionate Software Engineer with a strong foundation in Java, Spring Boot, Microservices, and cloud-native development. I’ve had the opportunity to work across the entire software lifecycle — from designing clean APIs and building scalable backend systems.<br>
 
 I bring hands-on experience from large-scale enterprise projects and have completed my Master’s in Computer Science from Illinois Tech. My focus is on building clean, efficient, and scalable solutions that solve real-world problems and create long-term impact.<br>
 
